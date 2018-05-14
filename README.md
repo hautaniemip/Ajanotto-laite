@@ -1,1 +1,1 @@
-# Ajanotto-laite
+# Ajanottojärjestelmä
