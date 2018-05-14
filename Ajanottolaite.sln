@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ajanottolaite", "Ajanottolaite\Ajanottolaite.csproj", "{D7EB3E31-B9DA-43A6-9A57-2523537A865A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7EB3E31-B9DA-43A6-9A57-2523537A865A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7EB3E31-B9DA-43A6-9A57-2523537A865A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7EB3E31-B9DA-43A6-9A57-2523537A865A}.Debug|Default.ActiveCfg = Debug|Any CPU
+		{D7EB3E31-B9DA-43A6-9A57-2523537A865A}.Debug|Default.Build.0 = Debug|Any CPU
+		{D7EB3E31-B9DA-43A6-9A57-2523537A865A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7EB3E31-B9DA-43A6-9A57-2523537A865A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7EB3E31-B9DA-43A6-9A57-2523537A865A}.Release|Default.ActiveCfg = Release|Any CPU
+		{D7EB3E31-B9DA-43A6-9A57-2523537A865A}.Release|Default.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F69D8951-4143-43A6-B7F1-44BCF85C75BC}
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+EndGlobal
